@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kushalasarada17@gmail.com**
 
-- ⚡ Fun fact **📸 Photography enthusiast: Capturing code and moments in pixels.**
+- ⚡ Fun fact about me **📸 Photography enthusiast: Capturing code and moments in pixels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
