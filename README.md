@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushala01&label=Profile%20views&color=0e75b6&style=flat" alt="kushala01" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK, Cloud Technologies**
+- 🌱 I’m currently learning **MERN Stack, Django**
 
 - 📫 How to reach me **kushalasarada17@gmail.com**
 
